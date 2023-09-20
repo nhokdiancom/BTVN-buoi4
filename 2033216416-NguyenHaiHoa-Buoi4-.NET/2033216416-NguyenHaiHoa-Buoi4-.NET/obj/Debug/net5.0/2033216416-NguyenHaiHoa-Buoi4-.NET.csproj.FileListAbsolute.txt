@@ -1,0 +1,16 @@
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\bin\Debug\net5.0\2033216416-NguyenHaiHoa-Buoi4-.NET.exe
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\bin\Debug\net5.0\2033216416-NguyenHaiHoa-Buoi4-.NET.deps.json
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\bin\Debug\net5.0\2033216416-NguyenHaiHoa-Buoi4-.NET.runtimeconfig.json
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\bin\Debug\net5.0\2033216416-NguyenHaiHoa-Buoi4-.NET.runtimeconfig.dev.json
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\bin\Debug\net5.0\2033216416-NguyenHaiHoa-Buoi4-.NET.dll
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\bin\Debug\net5.0\ref\2033216416-NguyenHaiHoa-Buoi4-.NET.dll
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\bin\Debug\net5.0\2033216416-NguyenHaiHoa-Buoi4-.NET.pdb
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\obj\Debug\net5.0\2033216416-NguyenHaiHoa-Buoi4-.NET.csproj.AssemblyReference.cache
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\obj\Debug\net5.0\2033216416-NguyenHaiHoa-Buoi4-.NET.GeneratedMSBuildEditorConfig.editorconfig
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\obj\Debug\net5.0\2033216416-NguyenHaiHoa-Buoi4-.NET.AssemblyInfoInputs.cache
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\obj\Debug\net5.0\2033216416-NguyenHaiHoa-Buoi4-.NET.AssemblyInfo.cs
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\obj\Debug\net5.0\2033216416-NguyenHaiHoa-Buoi4-.NET.csproj.CoreCompileInputs.cache
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\obj\Debug\net5.0\2033216416-NguyenHaiHoa-Buoi4-.NET.dll
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\obj\Debug\net5.0\ref\2033216416-NguyenHaiHoa-Buoi4-.NET.dll
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\obj\Debug\net5.0\2033216416-NguyenHaiHoa-Buoi4-.NET.pdb
+D:\bt sv\2033216416-NguyenHaiHoa-Buoi 4\2033216416-NguyenHaiHoa-Buoi4-.NET\2033216416-NguyenHaiHoa-Buoi4-.NET\obj\Debug\net5.0\2033216416-NguyenHaiHoa-Buoi4-.NET.genruntimeconfig.cache
